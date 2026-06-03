@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec ucblogo $(dirname $0)/${STEP:-stepA_mal}.lg - "${@}"

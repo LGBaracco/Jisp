@@ -1,0 +1,7 @@
+{
+  "name": "make-a-lisp",
+  "version": "1.0.0",
+  "dependencies": {
+    "koffi": "^2.9.0"
+  }
+}

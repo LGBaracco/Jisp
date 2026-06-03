@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+io $(dirname $0)/${STEP:-stepA_mal}.io "$@"
