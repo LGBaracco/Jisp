@@ -20,6 +20,7 @@ end
 while true
     print("user> ")
     line = readline()
+    #line = "123"
     if line === nothing
         break
     end
